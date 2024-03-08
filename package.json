@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrijoo/Primbon-Scraper.git"
+    "url": "git+https://github.com/feelemptyhere/Primbon-Scraper.git"
   },
   "keywords": [
     "primbon",
@@ -19,9 +19,9 @@
   "author": "izo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrijoo/Primbon-Scraper/issues"
+    "url": "https://github.com/feelemptyhere/Primbon-Scraper.git"
   },
-  "homepage": "https://github.com/mrijoo/Primbon-Scraper",
+  "homepage": "https://github.com/feelemptyhere/Primbon-Scraper.git",
   "dependencies": {
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
